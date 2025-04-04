@@ -37,9 +37,9 @@ By the end of this lab I was able to...
 
 ## 🛠 Notes
 
-- The project builds on the previous movie feed lab  
-- UI polish included adjusting image view content modes, font styles, and navigation titles  
-- The `movie` property in `DetailViewController` uses `!` because it’s guaranteed to be set before the detail screen loads  
-- I only edited the parts of the code marked for customization  
-- This lab helped reinforce how to create multi-screen apps using storyboards, segues, and view controller communication in Swift  
+- [The project builds on the previous movie feed lab](https://github.com/a-yannarouse/iOS101-Lab5).
+- UI polish included adjusting image view content modes, font styles, and navigation titles.
+- The `movie` property in `DetailViewController` uses `!` because it’s guaranteed to be set before the detail screen loads.
+- I only edited the parts of the code marked for customization.
+- This lab helped reinforce how to create multi-screen apps using storyboards, segues, and view controller communication in Swift.
 
